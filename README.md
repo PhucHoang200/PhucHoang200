@@ -22,7 +22,6 @@
 - 🧠 Capable of **project planning, task management, and documentation** using tools like **Jira**, **ClickUp**, and **Notion**.  
 - 🔧 Experienced in **team collaboration and version control** with **Git** and **GitHub**.  
 
-
 ---
 
 ## 🧠 Tech Stack
@@ -48,5 +47,5 @@
 
 ## 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=PhucHoang200&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PhucHoang200&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
