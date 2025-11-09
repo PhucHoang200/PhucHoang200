@@ -1,6 +1,6 @@
 <!-- ================== Header / Intro ================== -->
 <h1>
-  Hi 👋, I'm Phúc Hoàng
+  Hi 👋, I'm Hoang Phuc
 </h1>
 <h3>
   IT Student | Web & App Fullstack Developer
