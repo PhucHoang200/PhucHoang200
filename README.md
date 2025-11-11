@@ -48,7 +48,7 @@
 ## 📊 GitHub Stats
 <p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhucHoang200&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PhucHoang200&show_icons=true&count_private=true&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com?user=PhucHoang200&theme=tokyonight" />
 </div>
 </p>
