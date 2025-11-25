@@ -42,3 +42,4 @@
   <!-- Tools & Methodologies -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
+<img src="https://github-readme-stats-beta-red-51.vercel.app/api?username=PhucHoang200&show_icons=true&theme=tokyonight&hide_border=true" />
