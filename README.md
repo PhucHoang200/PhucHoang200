@@ -2,7 +2,7 @@
 <div align="center">
   <!-- Animated Header GIF -->
   <img src="https://raw.githubusercontent.com/sbook7107-sys/sbook7107-sys/refs/heads/main/header.gif" 
-       alt="Animated Header" width="800" height="500" style="border-radius: 16px; margin-bottom: 20px;" />
+       alt="Animated Header" width="700" height="450" style="border-radius: 16px; margin-bottom: 20px;" />
 </div>
 
 <h1>
