@@ -1,6 +1,12 @@
 <!-- ================== Header / Intro ================== -->
+<div align="center">
+  <!-- Animated Header GIF -->
+  <img src="https://raw.githubusercontent.com/sbook7107-sys/sbook7107-sys/refs/heads/main/header.gif" 
+       alt="Animated Header" width="1000" height="600" style="border-radius: 16px; margin-bottom: 20px;" />
+</div>
+
 <h1>
-  Hi 👋, I'm Hoang Phuc
+  🎄 Hi 👋, I'm Hoang Phuc
 </h1>
 <h3>
   IT Student | Web & App Fullstack Developer
@@ -42,4 +48,3 @@
   <!-- Tools & Methodologies -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
-<img src="https://github-readme-stats-beta-red-51.vercel.app/api?username=PhucHoang200&show_icons=true&theme=tokyonight&hide_border=true" />
