@@ -1,10 +1,7 @@
 <!-- ================== Header / Intro ================== -->
 <h1>
-  🎄 Hi 👋, I'm Hoang Phuc
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&width=600&lines=🎄+Hi+👋,+I'm+Hoang+Phuc;Fullstack+Developer;IT+Student" />
 </h1>
-<h3>
-  IT Student | Web & App Fullstack Developer
-</h3>
 
 ---
 
